@@ -1,3 +1,7 @@
+[The RiSC-16 Instruction-Set Architecture](https://user.eng.umd.edu/~blj/RiSC/RiSC-isa.pdf)
+
+[RiSC-16 Simulator](http://risc16simulator.appspot.com#)
+
 <h5>1.</h5>
 
 ```dart
