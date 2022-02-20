@@ -1,6 +1,6 @@
 <h5>1.</h5>
 
-```asm
+```c
 para i de A até B faça;
   C <- C – A;
 fim para;
