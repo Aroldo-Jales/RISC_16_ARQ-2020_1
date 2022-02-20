@@ -26,6 +26,9 @@ b:      .fill 7             define o valor de b
 c:      .fill 4             define o valor de c
 d:      .fill 3             define o valor de d*/
 
+//-----------------------------------------------------------------------------------
+
+
         lw 1,0,a       
         lw 2,0,b        
         lw 3,0,c

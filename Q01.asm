@@ -13,6 +13,9 @@ a:      .fill 5             define o valor de a
 b:      .fill 10            define o valor de b 
 c:      .fill 15            define o valor de c*/      
 
+//-----------------------------------------------------------------------------------
+
+
         lw 1,0,a          
         lw 2,0,a           
         lw 3,0,b           
